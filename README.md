@@ -69,6 +69,10 @@ The scripts generate various plots, including:
 
 Examples of generated images can be found in the `sample_img/` directory.
 
+### Example Plot
+
+![evap](https://raw.githubusercontent.com/hydrotian/land_model_diag_plots/main/sample_img/evap.15-Oct-2020-17-20-26.951.png)
+
 ## Author and Contact
 
 Tian Zhou
